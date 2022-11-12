@@ -1,0 +1,7 @@
+name: Mafia
+version: '${project.version}'
+main: mafia.mafia.Mafia
+api-version: 1.18
+commands :
+  게임:
+    description: 게임 관련 설정을 합니다
